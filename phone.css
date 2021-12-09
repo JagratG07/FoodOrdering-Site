@@ -1,0 +1,34 @@
+
+/* navigation */
+#navbar{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Home-section */
+.h-primary{
+    /* font-size: 20px; */
+}
+#home{
+    /* flex-direction: column; */
+ /* height: 485px; */
+ font-size: 13px;
+}
+
+
+/* services-section */
+  .services{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
+/* clients-section */
+#clients{
+    overflow: hidden;
+}
+
+/* contact us-section */
+p{
+    font-size: 13px;
+}
